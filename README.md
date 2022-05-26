@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-I love React JS and Android
+I Work on Android,Web,JVM,C++ !
 
 🔭 Currently working on an App In Jetpack Compose
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=wakaztahir&show_icons=true&locale=en&count_private=true&hide_border=true"/>
-</p>
+# My GitHub Stats
+[![Arisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakaztahir)](https://github.com/schabibi1/github-readme-stats)
+
+# My GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakaztahir)](https://git.io/streak-stats)
+
+# My top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakaztahir)](https://github.com/schabibi1/github-readme-stats)
