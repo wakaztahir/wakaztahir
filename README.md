@@ -2,7 +2,7 @@
 
 I Work on Android,Web,JVM,C++ !
 
-🔭 Currently working on an App In Jetpack Compose
+🔭 Currently working on an Android App, by the way checkout my organization [Qawaz](https://github.com/Qawaz/)
 
 # My GitHub Stats
 [![Arisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakaztahir)](https://github.com/schabibi1/github-readme-stats)
