@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-I Work on Android,Web,JVM,C++ !
+I am a Web & Android Developer, Currently **Unemployed** & Looking for a Remote Job
 
-🔭 Currently working on an Android App, by the way checkout my organization [Qawaz](https://github.com/Qawaz/)
+- I have total of 6+ years of experience in both fields
+- Published more than 7 apps on Play Store, Created using `Kotlin`, `Java`, `Jetpack Compose`
+- Created many websites using technologies `Typescript`, `React`, `Gatsby`, `Astro`
+- Created many backends using `Golang` & Deployed on `Google Cloud Platform`
+- Have years of experience with `Kotlin Multiplatform`
+
+🔭 Checkout my organization [Qawaz](https://github.com/Qawaz/)
 
 ![](https://komarev.com/ghpvc/?username=wakaztahir)
 
