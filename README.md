@@ -21,9 +21,9 @@ I am a Web & Android Developer, Currently **Unemployed** & Looking for a Remote 
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakaztahir&show_icons=true&theme=dark&count_private=true)-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakaztahir&show_icons=true&theme=dark&count_private=true)
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakaztahir&theme=dark)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wakaztahir&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wakaztahir&theme=dark&layout=pie)](https://github.com/wakaztahir)
 
