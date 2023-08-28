@@ -4,7 +4,7 @@ I am a Web & Android Developer, Currently **Unemployed** & Looking for a Remote 
 
 - I have total of 6+ years of experience in both fields
 - Published more than 7 apps on Play Store, Created using `Kotlin`, `Java`, `Jetpack Compose`
-- Created many websites using technologies `Typescript`, `React`, `Gatsby`, `Astro`
+- Created many websites using technologies `Typescript`, `React`, `SolidJS`, `Gatsby`
 - Created many backends using `Golang` & Deployed on `Google Cloud Platform`
 - Have years of experience with `Kotlin Multiplatform`
 
