@@ -8,7 +8,7 @@ I am a Web & Android Developer, Currently **Unemployed** & Looking for a Remote 
 - Created many backends using `Golang` & Deployed on `Google Cloud Platform`
 - Have years of experience with `Kotlin Multiplatform`
 
-🔭 Checkout my organization [Qawaz](https://github.com/Qawaz/)
+🔭 Checkout my organization [Qinetik](https://github.com/Qinetik/)
 
 ![](https://komarev.com/ghpvc/?username=wakaztahir)
 
