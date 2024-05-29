@@ -2,7 +2,7 @@
 
 Web & Android Developer, 6+ years
 
-- Has created a fully working Programming Language named `Chemical` + `LSP`
+- Created a fully working Programming Language named `Chemical` + `LSP`
 - Published more than 7 apps on Play Store
 - Created many websites and `PWA's` with `Typescript`, `React`, `SolidJS`
 - Deployed Backends built with `Golang` and `NodeJS`
