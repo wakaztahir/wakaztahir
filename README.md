@@ -1,24 +1,26 @@
 ### Hi there 👋
 
-I am a Web & Android Developer, Currently **Unemployed** & Looking for a Remote Job
+Web & Android Developer, 6+ years
 
-- I have total of 6+ years of experience in both fields
-- Published more than 7 apps on Play Store, Created using `Kotlin`, `Java`, `Jetpack Compose`
-- Created many websites using technologies `Typescript`, `React`, `SolidJS`, `Gatsby`
-- Created many backends using `Golang` & Deployed on `Google Cloud Platform`
-- Have years of experience with `Kotlin Multiplatform`
+- Has created a fully working Programming Language named `Chemical` + `LSP`
+- Published more than 7 apps on Play Store
+- Created many websites and `PWA's` with `Typescript`, `React`, `SolidJS`
+- Deployed Backends built with `Golang` and `NodeJS`
+- Years of experience in Android Development from Old Views to Modern `Jetpack Compose` + `Kotlin Multiplatform`
 
 🔭 Checkout my organization [Qinetik](https://github.com/Qinetik/)
 
 ![](https://komarev.com/ghpvc/?username=wakaztahir)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="Typescript">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg" title="Solid">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Golang">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" title="Golang">
 </div>
 
 <!--
